@@ -43,3 +43,4 @@ For more information on AngularJS and other kick-butt languages check out [Code 
 [node]: http://nodejs.org
 [http-server]: https://github.com/nodeapps/http-server
 [nvm]: https://github.com/creationix/nvm
+# NoteWrangler-AngularJS
